@@ -1,3 +1,2 @@
-# personal-website
-my first personal site
+# tutorial parallax scrolling website
 
